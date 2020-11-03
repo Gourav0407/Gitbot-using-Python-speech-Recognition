@@ -43,3 +43,6 @@ ____
 
 ####        Invalid/empty git account
 ![Invalid/empty_git_account](./screenshots/2.jpeg)
+
+####        Working of the Project
+![Working_of_the_Project](./working.jpeg)
